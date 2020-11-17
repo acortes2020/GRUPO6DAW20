@@ -1,0 +1,19 @@
+Instalación y Despliegue del Proyecto:
+Lo primero que hicimos fue crear una base de datos en mi hosting de CDMON a la que llamamos "alimentos62020", y una vez creada, desde phpMyAdmin,
+creamos la tabla "alimentos" con la estructura SQL que se dejó indicada en la práctica.
+Una vez hecho esto, procedimos a activar la conexión SSH mediante el cliente GIT en CDMON, que se puede encontrar fácilmente en el panel de control.
+Desde puTTY, entramos en mi repositorio de CDMON mediante conexión SSH, establecimos la conexión "ssh.aida.es.mialias.net" y una vez introducidos
+el usuario y la contraseña,comenzamos:
+nos situamos en la raíz de mi usuario (pwd, cd .., cd ..), entramos en mi carpeta web utilizando los comandos "cd web" 
+y visualizamos su contenido mediante el comando "ls". Creamos una nueva carpeta llamada "Alimentos6DAW2020" (mkdir Alimentos6DAW2020).
+Ya creada la carpeta, solo quedaba establecer la conexion entre GitHub y CDMON y lo hicimos de la siguiente manera:
+- lo primero que hicimos fue un "git init" para que se crease el subdirectorio .git y la nueva rama maestra en CDMON
+- después creamos la conexión con "git remote add conexion" y la url de GitHub en el que se encontraba nuestro proyecto, en este caso: http://github.com/acortes2020/GRUPO6DAW20
+- tras comprobar mediante "git remote -v" que las conexiones estaban establecidas, tuvimos que utilizar el comando "git config --global http.sslVerify false" para desactivar
+  la comprobación de certificados de verificación SSL
+- Y finalmente trasladamos el proyecto al repositorio mediante "git pull conexion master"
+Una vez trasladado el proyecto, tuvimos que configurar el archivo "Config.php" para indicar los datos de conexión con la base de datos.
+Para comprobar que funcionaba correctamente, todos los integrantes del grupo indicaron la siguiente url en su navegador:
+"aida.es.mialias.net/Alimentos6DAW2020/web" y entrar con los datos de acceso que son los siguientes:
+Usuario: aidaoe273
+Contraseña: ayjsn2fs
