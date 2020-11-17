@@ -1,1 +1,3 @@
-Me parece una buena práctica
+Valoración integrante 1 (Abel Cortés):
+
+Con relación al software (Git), me parece una herramienta interesante para la gestión, seguimiento y control, de actualizaciones y cambios, en el desarrollo de aplicaciones. Cabe destacar la versatilidad del producto, y su integración en diferentes plataformas. 
