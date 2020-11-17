@@ -16,3 +16,15 @@ Utilizar Git desde local es toda una experiencia, buena herramienta que facilita
 La práctica ha sido una forma de comenzar a manejar diferentes herramientas como GIT y GitHub. Es cierto que tal vez, GitHub, al ser un ámbito más visual y gráfico, me ha resultado un entorno mucho más fácil de manejar que GIT. He tenido más problemas con la inicialización de GIT en mi local, ya que desde el primer momento tuve problemas con .user y .email, y una vez solucionados esto, he tenido problemas al desalinearse de la rama máster a la hora de hacer pull, y tuvimos (mis compis y yo) que buscar una solución que finalmente se dio con "git pull --rebase conexion master". Una vez descargado el proyecto y alineado, pude subir sin problemas el proyecto con el archivo que me tocaba insertar.
 
 Trabajar con Abel y con Pedro ha sido una exeriencia muy grata. Desde el primer momento nos pusimos en contacto mediante whatsaap y con su permiso, creé un grupo para ponernos de acuerdo en cúando y cómo íbamos a realizar la práctica. Les pregunté si sería posible realizarla los 3 juntos, vía online, para que todos supiéramos lo que iba a hacer cada integrante, compartiendo su pantalla mediante una sala de "meet" que creamos y así lo hicimos, nos pusimos de acuerdo, y he de decir que sin ellos hubiera tardado mucho más en realizar esta prática. Así hemos podido ver cómo y qué hacía cada uno de nosotros, consultándonos las dudas y resolviéndonos los problemas que han ido surgiendo mutuamente. Estoy encantada con ellos, son fantásticos.
+
+
+Valoración integrante 3 (Pedro Morales):
+
+Después de todo lo detallado por mis homónimos seré breve limitandome a una valoración personal.
+Respecto a Git y GitHub he de confesar que he descubierto unas herramientas con un gran potencial aunque me hubiera gustado
+que fuesen algo más intuitivas y/o amigables (supongo que el uso de la GUI en vez de la BASH ayudaría a esto). 
+
+Continuando por la práctica propuesta, en mi opininión, ha estado genial. Cuando el trabajo colaborativo y en equipo funciona es muy productivo y
+gratificante. Solo hubiera añadido algun ejercicio más donde hubiéramos tenido que modificar código en Git local y subirlo a GitHub.
+
+Para terminar, Aída y Abel son ejemplares como compañeros y ni que decir como personas. ¡Un placer!
