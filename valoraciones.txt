@@ -1,3 +1,10 @@
 Valoración integrante 1 (Abel Cortés):
 
-Con relación al software (Git), me parece una herramienta interesante para la gestión, seguimiento y control, de actualizaciones y cambios, en el desarrollo de aplicaciones. Cabe destacar la versatilidad del producto, y su integración en diferentes plataformas. 
+Con relación al software (Git), me parece una herramienta interesante para la gestión, seguimiento y control, de actualizaciones y cambios, en el desarrollo de aplicaciones. Cabe destacar la versatilidad del producto, y su integración en diferentes plataformas. Es una herramienta potente a la que se le puede sacar mucho partido, y que facilitará los pasos entre las distintas fases de desarrollo, validación, pre-producción, y producción. Garantiza por un lado la independencia, seguridad, y control en cada una de las fases; y por otro lado, la colaboración e integración de los distintos equipos de trabajo.
+Por otro lado, requiere un conocimiento y experiencia mínimo, necesarios para su correcta utilización; y así poder sacar el máximo partido.
+
+Con relación a la práctica, ha sido una buena manera de tomar un primer contacto con la herramienta. Queda mucho por aprender, sobre todo a la hora de entender y corregir los errores, pero hemos aprendido muchas cosas (lo suficiente para un acercamiento que nos permita empezar a trabajar con ella).
+Otra cosa diferente es, que como ocurre con el trabajo de documentar una aplicación, sea una tarea más o menos atractiva (que, por lo general, no suele serlo para ningún profesional de la informática...).
+
+Y por útlimo, con relación a la experiencia, ha sido un trabajo en equipo muy agradable. Hemos aprendido juntos, nos hemos coordinado desde el primer minuto, y hemos alcanzado nuestro objetivo en tiempo y forma. Creo que hemos formado un buen equipo.
+
