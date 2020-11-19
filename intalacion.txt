@@ -16,6 +16,6 @@ el usuario y la contraseña,comenzamos:
 - Una vez trasladado el proyecto, tuvimos que configurar el archivo "Config.php" para indicar los datos de conexión con la base de datos.
  Decidimos hacerlo directamente una vez     que ya el proyecto se encontrase en mi repositorio de CDMON, para no dejar los datos de conexión publicados en el proyecto subido en    GitHub, ya que al ser repositorios públicos,   cualquiera podría tener acceso si quisiera. Nos pareció más seguro a todos.
 - Para comprobar que funcionaba correctamente, todos los integrantes del grupo indicaron la siguiente url en su navegador:
-"htps://aida.es.mialias.net/Alimentos6DAW2020/web" y entrar con los datos de acceso que son los siguientes:
+"https://aida.es.mialias.net/Alimentos6DAW2020/web" y entrar con los datos de acceso que son los siguientes:
 Usuario: aidaoe273
 Contraseña: ayjsn2fs
