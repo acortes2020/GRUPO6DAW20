@@ -1,0 +1,46 @@
+Histórico práctica 3: programando y desplegando en grupo
+
+
+Cuando se planteó la práctica en clase y estructuraron los grupos, nos tocó el grupo número 6 y los integrantes del mismo fuimos: Abel Cortés, Aída Rodríguez y Pedro Morales.
+
+Desde un primer momento, creamos un grupo de whatsapp para estar en contacto y determinar día y hora en el que haríamos la práctica en común, ya que los tres estuvimos de 
+acuerdo en que era una práctica para trabajar en grupo, aunque cada uno tuviera una parte concreta para hacer. 
+
+De esta forma y quedando así, creamos una sala de Meet para poder trabajar en conjunto y comenzamos con la tarea:
+
+0- Cada integrante en su ordenador descomprime el proyecto “alimentos2020” y cada uno deja en su directorio solo los archivos con los que les corresponde trabajar.
+
+1- Abel, creó el repositorio en GitHub e invitó a los demás integrantes mediante nombre de usuarios en GitHub o email de configuración. Llamó al repositorio “GRUPO6DAW20”.
+
+2- Seguidamente creó la conexión desde Git( su local) a GitHub e hizo push de sus archivos a la rama "master" (la cual si no existe, se crea).
+
+3- Aida y yo, en nuestro Git local hemos tenido que usar el comando:
+"git pull --rebase conexión master" 
+para traernos los cambios remotos directamente por debajo de nuestros cambios locales y resolver los conflictos antes de hacer push. Una vez logrado subir todo los archivos y 
+comprobado que el proyecto está completo, continuamos.
+
+4- Aida, creó en su hosting la base de datos a la que llamó “alimentos62020” y a través de phpMyAdmin, creó la tabla “alimentos” a partir del esquema SQL que se dejó en la 
+práctica.
+
+5- Una vez hecho esto, Aida utilizó la herramienta puTTY para crear la conexión SSH y tal como deja explicado en el documento “instalacion.txt” en GitHub, utilizó una serie de 
+comandos requeridos para trasladar el proyecto desde GitHub, a la carpeta específicamente creada en /web en el hosting de Aída, a la que llamó “Alimentos6DAW2020”. Previamente 
+se tuvo que utilizar el comando: “git config --global http.sslVerify false”, para poder evitar la verificación de SSL.
+
+6- Una vez trasladado el proyecto al hosting de Aida, cambiamos la configuración del archivo “Config.php”, para que la base de datos funcione correctamente con los datos de 
+conexión necesarios.
+
+7- Nuestro proyecto se encuentra desplegado en la siguiente url:
+
+http://www.aida.es.mialias.net/Alimentos6DAW2020/web
+
+y los datos de conexión son:
+Usuario: aidaoe273
+Contraseña: ayjsn2fs
+
+8- Una vez terminada la tarea del despliegue del proyecto en el hosting correspondiente, cada integrante del grupo se dedica a crear los diferentes .txt que son necesarios 
+para explicar por partes esta práctica. Por decisión común, creímos conveniente que Abel crease el “valoraciones.txt” en GitHub pero que cada uno de nosotros escribiera sus 
+propias valoraciones de la herramienta, la práctica y el trabajo en grupo. 
+Más tarde, Aida creó “instalacion.txt” también directamente en GitHub, en el que explica detalladamente el proceso de la creación del repositorio y la base de datos en su 
+hosting, uso de comandos, etc. 
+
+Y finalmente yo, Pedro, estoy creando este “historico.txt” que resume todas las tareas llevadas a cabo.
